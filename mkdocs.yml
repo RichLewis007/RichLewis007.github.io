@@ -8,7 +8,7 @@ nav:
   # Use a full URL so Material shows the “external link” icon:
   # - Public Gists: https://github.richlewis007.com/public-gists-from-Rich-Lewis/
   # (If you prefer a domain-agnostic path, you can use /public-gists-from-Rich-Lewis/ instead.)
-  - Blog: https://blog.richlewis007.com/
+  # - Blog: https://blog.richlewis007.com/
 
 extra_javascript:
   - js/nav-newtab.js
