@@ -1,0 +1,6 @@
+site_name: Rich Lewis
+site_url: https://github.richlewis007.com/
+theme:
+  name: material   # change/remove if you don't want Material
+nav:
+  - Home: index.md
