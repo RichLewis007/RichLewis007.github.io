@@ -1,4 +1,4 @@
-# Welcome to RichLewis007.github.io --> github.RichLewis007.com
+# Welcome to RichLewis007.github.io --> RichLewis007.com
 
 This site hosts my notes and links.
 
