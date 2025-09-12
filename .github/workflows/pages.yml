@@ -33,7 +33,7 @@ jobs:
         run: |
           uv sync --frozen
           uv run mkdocs build --strict
-          echo github.richlewis007.com > site/CNAME
+          echo richlewis007.com > site/CNAME
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
