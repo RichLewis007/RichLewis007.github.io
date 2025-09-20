@@ -1,10 +1,10 @@
-# RichLewis007.github.io --> https://RichLewis007.com
+# GitHub Pages **User Page** for RichLewis007
 
-GitHub Pages site repo for RichLewis007
+This repo contains the GitHub Pages **User Page** repo for RichLewis007.
 
-Standard GitHub URL:
+Publishes to the standard GitHub Pages **User Page** URL:
  [https://RichLewis007.github.io](https://RichLewis007.github.io)
 
-..which redirects to custom domain..
+..which redirects to a custom domain..
 [https://RichLewis007.com](https://RichLewis007.com)
 
