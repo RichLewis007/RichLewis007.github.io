@@ -1,15 +1,18 @@
-site_name: Rich Lewis' Free/Libre and Open-Source Software 
+site_name: "Rich Lewis' Free/Libre and Open-Source Software"
 site_url: https://richlewis007.com/
+
 theme:
   name: material
+
+# Point MkDocs to your docs folder
 docs_dir: gh-pages-source-docs
+
+# Navigation: mix of local docs and external links
 nav:
   - Home: index.md
-  - Public gists: /Public-Gists-from-Rich-Lewis/
-  # Use a full URL so Material shows the “external link” icon:
   - Public gists: https://richlewis007.com/Public-Gists-from-Rich-Lewis/
-  # (If you prefer a domain-agnostic path, you can use /Public-gists-from-Rich-Lewis/ instead.)
   - FLOSS Blog: https://blog.richlewis007.com/
 
+# Extra scripts (optional)
 extra_javascript:
   - js/nav-newtab.js
