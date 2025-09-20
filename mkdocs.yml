@@ -1,14 +1,14 @@
-site_name: Rich Lewis on GitHub Pages
+site_name: Rich Lewis' Free/Libre and Open-Source Software 
 site_url: https://richlewis007.com/
 theme:
-  name: material   # change/remove if you don't want Material
+  name: material
 nav:
   - Home: index.md
-  - Public Gists: /Public-Gists-from-Rich-Lewis/
+  - Public Gists: /Public-gists-from-Rich-Lewis/
   # Use a full URL so Material shows the “external link” icon:
-  # - Public Gists: https://github.richlewis007.com/Public-Gists-from-Rich-Lewis/
-  # (If you prefer a domain-agnostic path, you can use /public-gists-from-Rich-Lewis/ instead.)
-  # - Blog: https://blog.richlewis007.com/
+  # - Public gists: https://richlewis007.com/Public-gists-from-Rich-Lewis/
+  # (If you prefer a domain-agnostic path, you can use /Public-gists-from-Rich-Lewis/ instead.)
+  # - FLOSS Blog: https://blog.richlewis007.com/
 
 extra_javascript:
   - js/nav-newtab.js
