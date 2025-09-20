@@ -26,6 +26,9 @@ jobs:
       - name: Build site
         run: mkdocs build --strict
 
+      - name: Disable Jekyll
+        run: touch site/.nojekyll
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
