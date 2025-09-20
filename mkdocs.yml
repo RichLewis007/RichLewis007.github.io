@@ -2,6 +2,7 @@ site_name: Rich Lewis' Free/Libre and Open-Source Software
 site_url: https://richlewis007.com/
 theme:
   name: material
+docs_dir: gh-pages-source-docs
 nav:
   - Home: index.md
   - Public gists: /Public-gists-from-Rich-Lewis/
