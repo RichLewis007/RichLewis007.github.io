@@ -1,4 +1,4 @@
-# RichLewis007.github.io -->/ https://RichLewis007.com
+# RichLewis007.github.io --> https://RichLewis007.com
 
 GitHub Pages site repo for RichLewis007
 
