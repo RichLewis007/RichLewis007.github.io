@@ -1,5 +1,5 @@
-# Welcome to RichLewis007.com
+# Rich Lewis' Free/Libre and Open-Source Software 
 
-This site hosts info and links to my more popular open source software.
+This site hosts info and links to my more popular Free/Libre and Open-Source Software (FLOSS).
 
-- 👉 **Public Gists:** [View the daily index](/Public-Gists-from-Rich-Lewis/)
+- 👉 **Public Gists:** [View the daily index](/Public-gists-from-Rich-Lewis/)
