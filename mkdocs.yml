@@ -1,11 +1,9 @@
 site_name: "Rich Lewis' Free/Libre and Open-Source Software"
+docs_dir: gh-pages-source-docs
 site_url: https://richlewis007.com/
 
 theme:
   name: material
-
-# Point MkDocs to your docs folder
-docs_dir: gh-pages-source-docs
 
 # Navigation: mix of local docs and external links
 nav:
