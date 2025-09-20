@@ -1,7 +1,5 @@
-# Welcome to RichLewis007.github.io --> RichLewis007.com
+# Welcome to RichLewis007.com
 
-This site hosts my notes and links.
+This site hosts info and links to my more popular open source software.
 
 - 👉 **Public Gists:** [View the daily index](/Public-Gists-from-Rich-Lewis/)
-
-if you're seeing this, the MkDocs publishing to the pages is not working!
