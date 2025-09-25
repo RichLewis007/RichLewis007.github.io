@@ -8,7 +8,7 @@ theme:
 # Navigation: mix of local docs and external links
 nav:
   - Home: index.md
-  - Public gists: https://richlewis007.com/Public-Gists-from-Rich-Lewis/
+  - Public gists: https://richlewis007.com/Public-gists-from-Rich-Lewis/
   - FLOSS Blog: https://blog.richlewis007.com/
 
 # Extra scripts (optional)
