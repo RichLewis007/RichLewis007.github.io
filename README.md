@@ -1,4 +1,4 @@
-# GitHub Pages **User Page** for RichLewis007
+# GitHub Pages **User Page** for GitHub user @RichLewis007
 
 This repo contains the GitHub Pages **User Page** repo for RichLewis007.
 
